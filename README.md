@@ -3,12 +3,16 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+A guide to configuring osTicket after installation. This project explains how to customize settings such as email configurations,
+user roles, departments, and ticket workflows to tailor the system to your organization’s needs.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>🚀 Features</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+-📧 Email Setup: Configure email piping for incoming and outgoing ticket notifications.
+-🏢 Departments and Teams: Set up organizational departments and assign teams for ticket resolution.
+-🔑 User Roles and Permissions: Manage user roles, permissions, and access to certain parts of osTicket.
+-🛠️ Ticket Settings: Configure ticket priorities, SLA plans, and workflows.
 
 <h2>Environments and Technologies Used</h2>
 
