@@ -24,13 +24,14 @@ user roles, departments, and ticket workflows to tailor the system to your organ
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>🛠️ Tech Stack</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Familiarize with the UI: Get comfortable navigating the osTicket Admin and Agent Panels1
+- Create and Configure Roles: Set up roles with specific permissions for agents1
+- Set Up Departments: Organize tickets by categorizing them into departments
+- Allow Ticket Creation: Configure settings to let users create tickets1
+- Add Agents and Users: Create accounts for agents and users1
+- Configure Service Level Agreements (SLA): Set up SLA plans to manage ticket response times
 
 <h2>Configuration Steps</h2>
 
@@ -38,7 +39,10 @@ user roles, departments, and ticket workflows to tailor the system to your organ
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Email Configuration:
+
+Go to Admin Panel > Emails to configure email addresses for incoming tickets.
+Set up SMTP/IMAP for outgoing/incoming emails
 </p>
 <br />
 
@@ -46,7 +50,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Departments and Teams:
+
+Navigate to Admin Panel > Agents > Departments to create departments.
+Assign teams to handle specific ticket categories.
 </p>
 <br />
 
@@ -54,6 +61,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+User Roles:
+
+Set up user roles and permissions in Admin Panel > Agents > Roles.
+Assign users to roles to define access levels.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Ticket Workflows:
+
+Configure ticket priorities, SLA plans, and custom workflows in Admin Panel > Manage > Help Topics.
 </p>
 <br />
