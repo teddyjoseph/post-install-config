@@ -9,10 +9,10 @@ user roles, departments, and ticket workflows to tailor the system to your organ
 
 <h2>🚀 Features</h2>
 
--📧 Email Setup: Configure email piping for incoming and outgoing ticket notifications.
--🏢 Departments and Teams: Set up organizational departments and assign teams for ticket resolution.
--🔑 User Roles and Permissions: Manage user roles, permissions, and access to certain parts of osTicket.
--🛠️ Ticket Settings: Configure ticket priorities, SLA plans, and workflows.
+- 📧 Email Setup: Configure email piping for incoming and outgoing ticket notifications.
+- 🏢 Departments and Teams: Set up organizational departments and assign teams for ticket resolution.
+- 🔑 User Roles and Permissions: Manage user roles, permissions, and access to certain parts of osTicket.
+- 🛠️ Ticket Settings: Configure ticket priorities, SLA plans, and workflows.
 
 <h2>Environments and Technologies Used</h2>
 
